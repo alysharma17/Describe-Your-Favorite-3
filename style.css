@@ -1,0 +1,15 @@
+#look {
+    width:150px;
+    border-color:cyan;
+    border-width:3px;
+}
+body {
+   background:  linear-gradient(#60ebeb 0%, #27ae60 100%);
+
+}
+html {
+    scroll-behavior: smooth;
+}
+healthissues {
+    width:200px;
+}
